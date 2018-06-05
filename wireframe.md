@@ -4,4 +4,4 @@
 
 Мобильная версия:
 
-![alt text](https://github.com/ctel-prj-mng/2-wireframe-130218-stuklovao/blob/master/макет.png)
+![alt text](https://github.com/ctel-prj-mng/2-wireframe-130218-stuklovao/blob/master/новыймакет.PNG)
